@@ -23,10 +23,9 @@ gif -->
 
 <!-- Courier+Prime -->
 ### Socials🔗
-<img src="/assets/twitter.svg" alt="Twitter" height="20"/>
-<img src="/assets/youtube.svg" alt="Youtube" height="20"/>
-  <a href="http://commonmark.org" title="Redirect to homepage"><img src="http://commonmark.org/help/images/favicon.png" alt="homepage" /></a>
-  <a href="" target="_blank"><img src="/assets/twitter.svg" alt="Twitter" height="20"/></a>
+<!-- <img src="/assets/twitter.svg" alt="Twitter" height="20"/>
+<img src="/assets/youtube.svg" alt="Youtube" height="20"/> -->
+  <a href="https://www.google.com.my/" target="_blank"><img src="/assets/twitter.svg" alt="Twitter" height="20"/></a>
           <!-- <a href="https://www.linkedin.com/in/vincent-chin-a3044a226/" target="_blank"><i class="fa fa-linkedin" style="font-size: 20px;"></i></a>
           <a href="https://twitter.com/Vincexodus" target="_blank"><i class="fa fa-twitter" style="font-size: 20px;"></i></a>
           <a href="https://www.instagram.com/itsvin_1023/" target="_blank"><i class="fa fa-instagram" style="font-size: 20px;"></i></a>
