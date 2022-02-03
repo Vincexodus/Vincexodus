@@ -25,14 +25,16 @@ gif -->
 ### Socials🔗
 <img src="/assets/twitter.svg" alt="Twitter" height="20"/>
 <img src="/assets/youtube.svg" alt="Youtube" height="20"/>
-          <a href="https://github.com/Vincexodus" target="_blank"><i class="fa fa-github" style="font-size: 20px;"></i></a>
-          <a href="https://www.linkedin.com/in/vincent-chin-a3044a226/" target="_blank"><i class="fa fa-linkedin" style="font-size: 20px;"></i></a>
+  <a href="http://commonmark.org" title="Redirect to homepage"><img src="http://commonmark.org/help/images/favicon.png" alt="homepage" /></a>
+  <a href="" target="_blank"><img src="/assets/twitter.svg" alt="Twitter" height="20"/></a>
+          <!-- <a href="https://www.linkedin.com/in/vincent-chin-a3044a226/" target="_blank"><i class="fa fa-linkedin" style="font-size: 20px;"></i></a>
           <a href="https://twitter.com/Vincexodus" target="_blank"><i class="fa fa-twitter" style="font-size: 20px;"></i></a>
           <a href="https://www.instagram.com/itsvin_1023/" target="_blank"><i class="fa fa-instagram" style="font-size: 20px;"></i></a>
           <a href="mailto:TP061209@mail.apu.edu.my?subject=Personal%20Message"><i class="fa fa-envelope" style="font-size: 20px;"></i></a>
           <a href="https://www.youtube.com/channel/UCRVaKPADqZbIyn3xmpt1-tA" target="_blank"><i class="fa fa-youtube-play" style="font-size: 20px;"></i></a>
           <a href="https://www.reddit.com/user/OutlandishnessMost14" target="_blank"><i class="fa fa-reddit" style="font-size: 20px;"></i></a>
-          <a href="https://www.twitch.tv/t_vincexodus" target="_blank"><i class="fa fa-twitch" style="font-size: 20px;"></i></a>
+          <a href="https://www.twitch.tv/t_vincexodus" target="_blank"><i class="fa fa-twitch" style="font-size: 20px;"></i></a> -->
+
 ## Profile Visit Counter: ![Visitor Count](https://profile-counter.glitch.me/Vincexodus/count.svg) 
 <!-- <p align="left">
   <a href="https://github.com/peterthehan"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
