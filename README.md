@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
 
 Here are some ideas to get you started:
----
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,7 +9,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 ---
-[![Vincexodus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincexodus)](https://github.com/Vincexodus/github-readme-stats)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gtihub.svg" />
+
+[![Vincexodus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=dark&showicons=true)](https://github.com/Vincexodus/github-readme-stats)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus)](https://github.com/Vincexodus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=dark)](https://github.com/Vincexodus/github-readme-stats)
