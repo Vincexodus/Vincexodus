@@ -10,7 +10,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Visitor Count](https : //profile-counter.glitch.me/Vincexodus/count.svg)
 ---
+[![Typing SVG](https://vincexodus-readme.herokuapp.com?color=%233FF709&lines=Never+Stop+Thinking)](https://git.io/typing-svg)
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gtihub.svg" />
 
 [![Vincexodus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=dark&showicons=true)](https://github.com/Vincexodus/github-readme-stats)
