@@ -1,8 +1,8 @@
 [![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2307C800&duration=8000&center=true&vCenter=true&width=500&height=20&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
 
 ### **Hey 你好 Hai** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-😴😻🌚🫕🏊🎸🛫
-## I'm Vincent, currently a student pursuing Computer Science💻 Degree🎓 studying at APU. I strive to contribute to open source projects.
+:sleeping::heart_eyes_cat::new_moon_with_face::ramen::swimmer::guitar::airplane:
+## I'm Vincent, currently a student pursuing Computer Science:computer: Degree:mortar_board: studying at APU. I strive to contribute to open source projects.
 <!-- Visit my website 🌎 --> 
 <!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
