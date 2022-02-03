@@ -1,7 +1,7 @@
-[![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2307C800&duration=8000&center=true&vCenter=true&width=1000&height=15&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
+[![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2307C800&duration=8000&center=true&vCenter=true&width=1000&height=20&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
 
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-### I'm Vincent, currently a student pursuing Computer Science💻 Degree🎓 studying at APU. I strive to contribute to open source projects.
+### I'm Vincent, currently a student pursuing Computer Science💻 Degree🎓 studying at [Asia Pacific University](https://new.apu.edu.my/#). I strive to contribute to open source projects.
 ### 😴😻🌚🫕🏊🎸🛫
 <!-- Visit my website 🌎 --> 
 <!-- - 🔭 I’m currently working on 
@@ -17,11 +17,13 @@
 mesasge me 📧
 gif -->
 ---
-:heart:🎥Quote:
-> Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe. (Superman, 1978)
+### :heart:🎥Quote:
+
+> ### Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe. (Superman, 1978)
 
 <!-- Courier+Prime -->
 <!-- Typing animation -->
+![Tux, the Linux mascot](/assets/images/tux.png)
 
 
 ## Profile Visited ![Visitor Count](https://profile-counter.glitch.me/Vincexodus/count.svg) times
