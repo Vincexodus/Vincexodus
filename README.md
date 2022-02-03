@@ -1,8 +1,8 @@
-[![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2307C800&duration=8000&center=true&vCenter=true&width=500&height=20&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
+[![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2307C800&duration=8000&center=true&vCenter=true&width=1000&height=15&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
 
-### **Hey 你好 Hai** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-:sleeping::heart_eyes_cat::new_moon_with_face::ramen::swimmer::guitar::airplane:
-## I'm Vincent, currently a student pursuing Computer Science:computer: Degree:mortar_board: studying at APU. I strive to contribute to open source projects.
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+### I'm Vincent, currently a student pursuing Computer Science💻 Degree🎓 studying at APU. I strive to contribute to open source projects.
+### 😴😻🌚🫕🏊🎸🛫
 <!-- Visit my website 🌎 --> 
 <!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
@@ -16,15 +16,15 @@
 <!-- socails🔗
 mesasge me 📧
 gif -->
-Testing emoji :blush:
 ---
-Favourite Quote🎥: `Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe. (Superman, 1978)`
+:heart:🎥Quote:
+> Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe. (Superman, 1978)
 
-Profile Visited ![Visitor Count](https://profile-counter.glitch.me/Vincexodus/count.svg) times
 <!-- Courier+Prime -->
 <!-- Typing animation -->
 
 
+## Profile Visited ![Visitor Count](https://profile-counter.glitch.me/Vincexodus/count.svg) times
 <!-- <p align="left">
   <a href="https://github.com/peterthehan"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
   <a href="https://www.npmjs.com/~peterthehan"><img alt="npm" height="32" width="32" src="assets/npm.svg"></a>
