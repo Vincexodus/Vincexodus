@@ -6,20 +6,20 @@
 #### I'm Vincent, currently a student pursuing Computer Science💻 Degree🎓 studying at [Asia Pacific University](https://new.apu.edu.my/#). I strive to contribute to open source projects.
 ## 😴😻🌚🫕🏊🎸🛫
 
-<!-- <img src=".gif" align="right" /> -->
+<img src=".gif" align="/assets/running.webp" />
 
 <!-- Visit my website 🌎 --> 
 - 📝: English, Chinese, Malay
-- 🌱: Blockchain🪙, in-depth programming🔧, AI🤖, Network Marketing💎
+- 🌱: Blockchain🪙, In-depth programming🔧, AI🤖, Network Marketing💎
 - 👾: Axie Infinity🐉, Apex Legends🔫, NFT games, etc.
 
 ### Socials 🔗
-<a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="30" align ="left"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="30" align ="left"/></a>
-<a href="https://www.facebook.com/vincent.chin.5682"><img src="/assets/facebook.svg" alt="Facebook" height="30" align ="left"/></a>
-<a href="https://www.reddit.com/user/OutlandishnessMost14"><img src="/assets/reddit.svg" alt="Reddit" height="30" align ="left"/></a>
-<a href="https://www.youtube.com/channel/UCRVaKPADqZbIyn3xmpt1-tA"><img src="/assets/youtube.svg" alt="Youtube" height="30" align ="left"/></a>
-<a href="https://www.twitch.tv/t_vincexodus"><img src="/assets/twitch.svg" alt="Twitch" height="30" align ="left"/></a>
+<a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="26" align ="left"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="26" align ="left"/></a>
+<a href="https://www.facebook.com/vincent.chin.5682"><img src="/assets/facebook.svg" alt="Facebook" height="26" align ="left"/></a>
+<a href="https://www.reddit.com/user/OutlandishnessMost14"><img src="/assets/reddit.svg" alt="Reddit" height="26" align ="left"/></a>
+<a href="https://www.youtube.com/channel/UCRVaKPADqZbIyn3xmpt1-tA"><img src="/assets/youtube.svg" alt="Youtube" height="26" align ="left"/></a>
+<a href="https://www.twitch.tv/t_vincexodus"><img src="/assets/twitch.svg" alt="Twitch" height="26" align ="left"/></a>
 <br>
 
 ### Tools 🔧
@@ -43,12 +43,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&hide_border=true)](https://github.com/Vincexodus/github-readme-stats)
 
 <!-- eye icon -->
-
-<h1 align="center">👀<br>
-</h1>
 <h1 align="center">👀<br>
   <img src="https://profile-counter.glitch.me/Vincexodus/count.svg" />
 </h1>
+
+
+
+
+
+
 <!-- Drop me a message!📧 -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
