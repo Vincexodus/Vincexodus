@@ -42,13 +42,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&hide_border=true)](https://github.com/Vincexodus/github-readme-stats)
 
 <!-- eye icon -->
-<p align="center"> 
-  👀Visitors count👀<br>
-  <img src="https://profile-counter.glitch.me/Vincexodus/count.svg" />
+# 👀<br>![Visitor Count](https://profile-counter.glitch.me/Vincexodus/count.svg) 
+<!-- <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" /> -->
 </p>
-
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20" align = "center"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="22"style="padding: 0px 5px;"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20"align ="left"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="22"align = "left"/></a>
 
 
 
