@@ -3,7 +3,7 @@
 <!-- [![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2307C800&duration=8000&center=true&vCenter=true&width=1000&height=20&lines=Never+Stop+Thinking.)](https://git.io/typing-svg) -->
 
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-### I'm Vincent, currently a student pursuing Computer Science💻 Degree🎓 studying at [Asia Pacific University](https://new.apu.edu.my/#). I strive to contribute to open source projects.
+#### I'm Vincent, currently a student pursuing Computer Science💻 Degree🎓 studying at [Asia Pacific University](https://new.apu.edu.my/#). I strive to contribute to open source projects.
 ## 😴😻🌚🫕🏊🎸🛫
 
 <!-- <img src=".gif" align="right" /> -->
@@ -14,7 +14,6 @@
 - 👾: Axie Infinity🐉, Apex Legends🔫, NFT games, etc.
 
 ### Socials 🔗
----
 <a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="30" align ="left"/></a>
 <a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="30" align ="left"/></a>
 <a href="https://www.facebook.com/vincent.chin.5682"><img src="/assets/facebook.svg" alt="Facebook" height="30" align ="left"/></a>
@@ -24,7 +23,6 @@
 <br>
 
 ### Tools 🔧
----
 <a href="https://www.python.org/"><img src="/assets/python.svg" alt="Python" height="32"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="/assets/c programming.svg" alt="C" height="32"/></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="/assets/c sharp.svg" alt="C#" height="32"/></a>
@@ -48,7 +46,7 @@
 
 <h1 align="center">👀<br>
 </h1>
-<h1 align="center">
+<h1 align="center">👀<br>
   <img src="https://profile-counter.glitch.me/Vincexodus/count.svg" />
 </h1>
 <!-- Drop me a message!📧 -->
