@@ -43,7 +43,7 @@
 <!-- Most Used Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&hide_border=true)](https://github.com/Vincexodus/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300A909&duration=6500&center=true&vCenter=true&width=1000&height=30&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
+[![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Courier+Prime&color=%2300A909&duration=6500&center=true&vCenter=true&width=1000&height=30&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
 <!-- eye icon -->
 <h1 align="center">👀<br>
   <img src="https://profile-counter.glitch.me/Vincexodus/count.svg" />
