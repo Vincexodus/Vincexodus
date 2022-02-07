@@ -14,6 +14,9 @@
 - 👾: Axie Infinity🐉, Apex Legends🔫, NFT games, etc.
 
 ### Socials 🔗
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20"align ="left"/></a>
+
+
 <a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="30"align ="left"/></a>
 <a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="30"align ="left"/></a>
 <a href="https://www.facebook.com/vincent.chin.5682"><img src="/assets/facebook.svg" alt="Facebook" height="30"align ="left"/></a>
@@ -45,8 +48,8 @@
 # 👀<br>![Visitor Count](https://profile-counter.glitch.me/Vincexodus/count.svg) 
 <!-- <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" /> -->
-</p>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p> -->
 <a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20"align ="left"/></a>
 <a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="22"align ="left"/></a>
 
