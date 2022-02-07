@@ -2,8 +2,7 @@
 <!-- Courier+Prime not working dk why-->
 <!-- [![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2307C800&duration=8000&center=true&vCenter=true&width=1000&height=20&lines=Never+Stop+Thinking.)](https://git.io/typing-svg) -->
 
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-<img src="/assets/mochi-mochi-hello-white-mochi-mochi.gif" width="30px"> 
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><img src="/assets/mochi-mochi-hello-white-mochi-mochi.gif" width="30px"> 
 #### I'm Vincent, currently a student pursuing Computer Science💻 Degree🎓 studying at [Asia Pacific University](https://new.apu.edu.my/#). I strive to contribute to open source projects.
 ## 😴😻🌚🫕🏊🎸🛫
 
