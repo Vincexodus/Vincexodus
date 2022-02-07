@@ -14,14 +14,12 @@
 - 👾: Axie Infinity🐉, Apex Legends🔫, NFT games, etc.
 
 ### Socials 🔗
-
-
 <a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="30" align ="left"/></a>
 <a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="30" align ="left"/></a>
 <a href="https://www.facebook.com/vincent.chin.5682"><img src="/assets/facebook.svg" alt="Facebook" height="30" align ="left"/></a>
-<a href="https://www.reddit.com/user/OutlandishnessMost14"><img src="/assets/reddit.svg" alt="Reddit" height="30"/></a>
-<a href="https://www.youtube.com/channel/UCRVaKPADqZbIyn3xmpt1-tA"><img src="/assets/youtube.svg" alt="Youtube" height="30"/></a>
-<a href="https://www.twitch.tv/t_vincexodus"><img src="/assets/twitch.svg" alt="Twitch" height="30"/></a>
+<a href="https://www.reddit.com/user/OutlandishnessMost14"><img src="/assets/reddit.svg" alt="Reddit" height="30" align ="left"/></a>
+<a href="https://www.youtube.com/channel/UCRVaKPADqZbIyn3xmpt1-tA"><img src="/assets/youtube.svg" alt="Youtube" height="30" align ="left"/></a>
+<a href="https://www.twitch.tv/t_vincexodus"><img src="/assets/twitch.svg" alt="Twitch" height="30" align ="left"/></a>
 
 ### Tools 🔧
 <a href="https://www.python.org/"><img src="/assets/python.svg" alt="Python" height="32"/></a>
@@ -48,10 +46,6 @@
 <a href="https://novakcgx.me"><img height="32" align="left" alt="Website" src="/assets/vscode.svg" /></a>
 
 <a href="mailto:hi@novakcgx.me"><img height="32" align="left" alt="Mail" src="/assets/vscode.svg" /></a>
-
-<a href="https://paypal.me/dnguy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="/assets/vscode.svg" />
-</a>
 
 <h1 align="center">👀<br>
 </h1>
