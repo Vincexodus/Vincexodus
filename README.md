@@ -14,11 +14,11 @@
 - 📝: English, Chinese, Malay
 - 🌱: Blockchain🪙, in-depth programming🔧, AI🤖, Network Marketing💎
 - 👾: Axie Infinity🐉, Apex Legends🔫, etc NFT games.
-<img src=".gif" align="right" />
+<!-- <img src=".gif" align="right" /> -->
 <!-- 
 mesasge me 📧
 gif -->
-### :heart:🎥Quote:
+### Favourite:heart:🎥Quote:
 
 > #### Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe. (Superman, 1978)
 
@@ -26,12 +26,12 @@ gif -->
 ### Socials🔗
 <!-- <img src="/assets/twitter.svg" alt="Twitter" height="20"/>
 <img src="/assets/youtube.svg" alt="Youtube" height="20"/> -->
-<a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="20px"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20px"/></a>
-<a href="https://www.instagram.com/itsvin_1023/"><img src="/assets/instagram.svg" alt="Instagram" height="20px"/></a>
-<a href="https://www.reddit.com/user/OutlandishnessMost14"><img src="/assets/reddit.svg" alt="Reddit" height="20px"/></a>
-<a href="https://www.twitch.tv/t_vincexodus"><img src="/assets/twitch.svg" alt="Twitch" height="20px"/></a>
-<a href="https://www.youtube.com/channel/UCRVaKPADqZbIyn3xmpt1-tA"><img src="/assets/youtube.svg" alt="Youtube" height="20px"/></a>
+<a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="32"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="32"/></a>
+<a href="https://www.instagram.com/itsvin_1023/"><img src="/assets/instagram.svg" alt="Instagram" height="32"/></a>
+<a href="https://www.reddit.com/user/OutlandishnessMost14"><img src="/assets/reddit.svg" alt="Reddit" height="32"/></a>
+<a href="https://www.twitch.tv/t_vincexodus"><img src="/assets/twitch.svg" alt="Twitch" height="32"/></a>
+<a href="https://www.youtube.com/channel/UCRVaKPADqZbIyn3xmpt1-tA"><img src="/assets/youtube.svg" alt="Youtube" height="32"/></a>
 
 
 <!-- eye icon -->
@@ -43,12 +43,20 @@ gif -->
 </p> -->
 
 ### Tools 
+<a href="https://www.python.org/"><img src="/assets/python.svg" alt="Python" height="32"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="/assets/c programming.svg" alt="C" height="32"/></a>
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="/assets/c sharp.svg" alt="C#" height="32"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img src="/assets/html.svg" alt="HTML" height="32"/></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img src="/assets/css.svg" alt="CSS" height="32"/></a>
+<a href="https://www.javascript.com/"><img src="/assets/javasript.svg" alt="Javascript" height="32"/></a>
+<a href="https://unity.com/"><img src="/assets/unity.svg" alt="Unity" height="32"/></a>
+<a href="https://code.visualstudio.com/"><img src="/assets/vscode.svg" alt="Vscode" height="32"/></a>
 
 <!-- Github Stats -->
 [![Vincexodus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=blue-green&showicons=true&hide_border=true)](https://github.com/Vincexodus/github-readme-stats)
 
 <!-- Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green)](https://github.com/Vincexodus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&hide_border=true)](https://github.com/Vincexodus/github-readme-stats)
 <!-- Drop me a message! -->
 <!--START_SECTION:activity-->
 
