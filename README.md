@@ -6,7 +6,7 @@
 #### I'm Vincent, currently a student pursuing Computer Science💻 Degree🎓 studying at [Asia Pacific University](https://new.apu.edu.my/#). I strive to contribute to open source projects.
 ## 😴😻🌚🫕🏊🎸🛫
 
-<img src=".gif" align="/assets/running.webp" />
+<img src="/assets/running.webp" align="right" />
 
 <!-- Visit my website 🌎 --> 
 - 📝: English, Chinese, Malay
