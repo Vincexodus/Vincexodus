@@ -14,8 +14,9 @@
 - 👾: Axie Infinity🐉, Apex Legends🔫, NFT games, etc.
 
 ### Socials 🔗
-<a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="30"style="padding: 0px 5px;"/></a>
+<a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="30"/></a>
 <a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="30"/></a>
+<a href="https://www.facebook.com/vincent.chin.5682"><img src="/assets/facebook.svg" alt="Facebook" height="30"/></a>
 <a href="https://www.reddit.com/user/OutlandishnessMost14"><img src="/assets/reddit.svg" alt="Reddit" height="30"/></a>
 <a href="https://www.youtube.com/channel/UCRVaKPADqZbIyn3xmpt1-tA"><img src="/assets/youtube.svg" alt="Youtube" height="30"/></a>
 <a href="https://www.twitch.tv/t_vincexodus"><img src="/assets/twitch.svg" alt="Twitch" height="30"/></a>
@@ -41,9 +42,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&hide_border=true)](https://github.com/Vincexodus/github-readme-stats)
 
 <!-- eye icon -->
-# 👀![Visitor Count](https://profile-counter.glitch.me/Vincexodus/count.svg) 
+<p align="center"> 
+  👀Visitors count👀<br>
+  <img src="https://profile-counter.glitch.me/Vincexodus/count.svg" />
+</p>
 
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20"style="padding: 5px;"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20" align = "center"/></a>
 <a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="22"style="padding: 0px 5px;"/></a>
 
 
