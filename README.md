@@ -36,12 +36,14 @@
 
 > #### Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe. (Superman, 1978)
 
+---
 <!-- Github Stats -->
 [![Vincexodus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=blue-green&showicons=true&hide_border=true)](https://github.com/Vincexodus/github-readme-stats)
 
 <!-- Most Used Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&hide_border=true)](https://github.com/Vincexodus/github-readme-stats)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300A909&duration=6500&center=true&vCenter=true&width=1000&height=30&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
 <!-- eye icon -->
 <h1 align="center">👀<br>
   <img src="https://profile-counter.glitch.me/Vincexodus/count.svg" />
