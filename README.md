@@ -15,6 +15,7 @@
 
 ### Socials 🔗
 
+
 <a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="30" align ="left"/></a>
 <a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="30" align ="left"/></a>
 <a href="https://www.facebook.com/vincent.chin.5682"><img src="/assets/facebook.svg" alt="Facebook" height="30" align ="left"/></a>
@@ -44,18 +45,17 @@
 
 <!-- eye icon -->
 
-<a href="https://novakcgx.me">
-    <img height="32" align="left" alt="Website" src="/assets/vscode.svg" />
-</a>
+<a href="https://novakcgx.me"><img height="32" align="left" alt="Website" src="/assets/vscode.svg" /></a>
 
-<a href="mailto:hi@novakcgx.me">
-    <img height="32" align="left" alt="Mail" src="/assets/vscode.svg" />
-</a>
+<a href="mailto:hi@novakcgx.me"><img height="32" align="left" alt="Mail" src="/assets/vscode.svg" /></a>
 
 <a href="https://paypal.me/dnguy38">
     <img height="32" align="left" alt="Buy Me a Coffee" src="/assets/vscode.svg" />
 </a>
+
 <h1 align="center">👀<br>
+</h1>
+<h1 align="center">
   <img src="https://profile-counter.glitch.me/Vincexodus/count.svg" />
 </h1>
 <!-- Drop me a message!📧 -->
