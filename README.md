@@ -43,8 +43,8 @@
 <!-- eye icon -->
 # 👀![Visitor Count](https://profile-counter.glitch.me/Vincexodus/count.svg) 
 
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20"style="padding: 5px"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="22"style="padding: 0px 5px"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20"style="padding: 5px;"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="22"style="padding: 0px 5px;"/></a>
 
 
 
