@@ -14,7 +14,7 @@
 - 👾: Axie Infinity🐉, Apex Legends🔫, NFT games, etc.
 
 ### Socials 🔗
-<a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="30"/></a>
+<a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="30"style="padding: 0 px 5px;"/></a>
 <a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="30"/></a>
 <a href="https://www.reddit.com/user/OutlandishnessMost14"><img src="/assets/reddit.svg" alt="Reddit" height="30"/></a>
 <a href="https://www.youtube.com/channel/UCRVaKPADqZbIyn3xmpt1-tA"><img src="/assets/youtube.svg" alt="Youtube" height="30"/></a>
@@ -43,14 +43,14 @@
 <!-- eye icon -->
 # 👀![Visitor Count](https://profile-counter.glitch.me/Vincexodus/count.svg) 
 
-<!-- <a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="22"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="24"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="26"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="28"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="30"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="32"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="34"/></a> -->
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20"style="padding: 0 px 5px;"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="22"style="padding: 0 px 5px;"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="24"style="padding: 0 px 5px;"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="26"style="padding: 0 px 5px;"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="28"style="padding: 0 px 5px;"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="30"style="padding: 0 px 5px;"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="32"style="padding: 0 px 5px;"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="34"style="padding: 0 px 5px;"/></a>
 
 
 
