@@ -43,14 +43,8 @@
 <!-- eye icon -->
 # 👀![Visitor Count](https://profile-counter.glitch.me/Vincexodus/count.svg) 
 
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20"style="padding: 0px 5px;"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="22"style="padding: 0px 5px;"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="24"style="padding: 0px 5px;"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="26"style="padding: 0px 5px;"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="28"style="padding: 0px 5px;"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="30"style="padding: 0px 5px;"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="32"style="padding: 0px 5px;"/></a>
-<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="34"style="padding: 0px 5px;"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="20"style="padding: 5px"/></a>
+<a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="22"style="padding: 0px 5px"/></a>
 
 
 
