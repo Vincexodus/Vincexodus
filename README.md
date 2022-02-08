@@ -39,9 +39,9 @@
 ---
 <!-- Github Stats -->
 <a href="https://github.com/Vincexodus/github-readme-stats">
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=blue-green&showicons=true&hide_border=true" />
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=blue-green&showicons=true&hide_border=true" width=40%/>
 </a>
-<!-- width=47% -->
+
 <!-- Most Used Languages -->
 <a href="https://github.com/Vincexodus/github-readme-stats">
   <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&layout=compact&hide_border=true"/>
