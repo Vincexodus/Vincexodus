@@ -48,6 +48,7 @@
 </a>
 
 <br>
+
 [![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2300FF13&duration=6500&center=true&vCenter=true&width=1000&height=30&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
 
 <!-- eye icon -->
