@@ -47,12 +47,12 @@
   <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&layout=compact&hide_border=true"/>
 </a>
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 [![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2300FF13&duration=6500&center=true&vCenter=true&width=1000&height=30&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
 
 <!-- eye icon -->
-<h1 align="center">👀<br><br>
+<h1 align="center">👀<br>
   <img src="https://profile-counter.glitch.me/Vincexodus/count.svg" />
 </h1>
 
