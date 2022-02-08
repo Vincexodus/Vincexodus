@@ -39,7 +39,7 @@
 ---
 <!-- Github Stats -->
 <a href="https://github.com/Vincexodus/github-readme-stats">
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=blue-green&showicons=true&hide_border=true" width=45%/>
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=blue-green&showicons=true&hide_border=true" width=48%/>
 </a>
 
 <!-- Most Used Languages -->
