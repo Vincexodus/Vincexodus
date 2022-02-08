@@ -39,20 +39,20 @@
 ---
 <!-- Github Stats -->
 <a href="https://github.com/Vincexodus/github-readme-stats">
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=blue-green&showicons=true&hide_border=true" width=47%/>
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=blue-green&showicons=true&hide_border=true" />
 </a>
-
+<!-- width=47% -->
 <!-- Most Used Languages -->
 <a href="https://github.com/Vincexodus/github-readme-stats">
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&layout=compact&hide_border=true" width=47%/>
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&layout=compact&hide_border=true"/>
 </a>
 
-<br>
+<br><br><br>
 
 [![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2300FF13&duration=6500&center=true&vCenter=true&width=1000&height=30&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
 
 <!-- eye icon -->
-<h1 align="center">👀<br>
+<h1 align="center">👀<br><br>
   <img src="https://profile-counter.glitch.me/Vincexodus/count.svg" />
 </h1>
 
