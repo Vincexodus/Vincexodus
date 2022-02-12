@@ -1,7 +1,7 @@
 <!-- Typing animation -->
 <!-- Courier+Prime not working dk why-->
 <!-- [![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2307C800&duration=8000&center=true&vCenter=true&width=1000&height=20&lines=Never+Stop+Thinking.)](https://git.io/typing-svg) -->
-
+<img src="/assets/mochi-sleeping.gif" align="center" height="100px"/>
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><img src="/assets/mochi-greeting.gif" width="30px"> 
 #### I'm Vincent, currently a student pursuing Computer Science💻 Degree🎓 studying at [Asia Pacific University](https://new.apu.edu.my/#). I strive to contribute to open source projects.
 ## 😴😻🌚🫕🏊🎸🛫
@@ -21,8 +21,6 @@
 <a href="https://www.youtube.com/channel/UCRVaKPADqZbIyn3xmpt1-tA"><img src="/assets/youtube.svg" alt="Youtube" height="26" align ="left"/></a>
 <a href="https://www.twitch.tv/t_vincexodus"><img src="/assets/twitch.svg" alt="Twitch" height="26" align ="left"/></a>
 <br>
-
-<img src="/assets/mochi-sleeping.gif" align="right" height="200px"/>
 
 ### Tools 🔧
 <a href="https://www.python.org/"><img src="/assets/python.svg" alt="Python" height="32"/></a>
