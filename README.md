@@ -12,6 +12,8 @@
 - 🌱: Blockchain🪙, In-depth programming🔧, AI🤖, Network Marketing💎
 - 👾: Axie Infinity🐉, Apex Legends🔫, NFT games, etc.
 
+<img src="/assets/mochi-sleeping.gif" align="right" height="100px"/>
+
 ### Socials 🔗
 <a href="https://twitter.com/Vincexodus"><img src="/assets/twitter.svg" alt="Twitter" height="26" align ="left"/></a>
 <a href="https://www.linkedin.com/in/vincent-chin-a3044a226"><img src="/assets/linkedin.svg" alt="LinkedIn" height="26" align ="left"/></a>
@@ -46,9 +48,7 @@
   <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&layout=compact&hide_border=true"/>
 </a>
 
-<img src="/assets/mochi-sleeping.gif" align="center" height="100px"/>
 <br><br><br><br><br><br><br><br><br>
-
 
 [![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2300FF13&duration=6500&center=true&vCenter=true&width=1000&height=30&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
