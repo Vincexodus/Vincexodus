@@ -7,7 +7,6 @@
 ## 😴😻🌚🫕🏊🎸🛫
 
 <img src="/assets/running.webp" align="right" height="200px"/>
-<img src="/assets/mochi-sleeping.gif" align="right" height="200px"/>
 
 <!-- Visit my website 🌎 --> 
 - 📝: English, Chinese, Malay
@@ -22,6 +21,8 @@
 <a href="https://www.youtube.com/channel/UCRVaKPADqZbIyn3xmpt1-tA"><img src="/assets/youtube.svg" alt="Youtube" height="26" align ="left"/></a>
 <a href="https://www.twitch.tv/t_vincexodus"><img src="/assets/twitch.svg" alt="Twitch" height="26" align ="left"/></a>
 <br>
+
+<img src="/assets/mochi-sleeping.gif" align="right" height="200px"/>
 
 ### Tools 🔧
 <a href="https://www.python.org/"><img src="/assets/python.svg" alt="Python" height="32"/></a>
