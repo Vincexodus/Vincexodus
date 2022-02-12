@@ -1,7 +1,6 @@
 <!-- Typing animation -->
 <!-- Courier+Prime not working dk why-->
 <!-- [![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2307C800&duration=8000&center=true&vCenter=true&width=1000&height=20&lines=Never+Stop+Thinking.)](https://git.io/typing-svg) -->
-<img src="/assets/mochi-sleeping.gif" align="center" height="100px"/>
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><img src="/assets/mochi-greeting.gif" width="30px"> 
 #### I'm Vincent, currently a student pursuing Computer Science💻 Degree🎓 studying at [Asia Pacific University](https://new.apu.edu.my/#). I strive to contribute to open source projects.
 ## 😴😻🌚🫕🏊🎸🛫
@@ -47,7 +46,9 @@
   <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&layout=compact&hide_border=true"/>
 </a>
 
+<img src="/assets/mochi-sleeping.gif" align="center" height="100px"/>
 <br><br><br><br><br><br><br><br><br>
+
 
 [![Typing SVG](https://vincexodus-readme.herokuapp.com?font=Monospace&color=%2300FF13&duration=6500&center=true&vCenter=true&width=1000&height=30&lines=Never+Stop+Thinking.)](https://git.io/typing-svg)
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
