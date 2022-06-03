@@ -8,9 +8,9 @@
 <img src="/assets/running.webp" align="right" height="200px"/>
 
 <!-- Visit my website 🌎 --> 
-- 📝: English, Chinese, Malay
-- 🌱: Blockchain🪙, In-depth programming🔧, AI🤖, Network Marketing💎
-- 👾: Axie Infinity🐉, Apex Legends🔫, NFT games, etc.
+- Speaks        📝: English, Chinese, Malay
+- Interested in 🌱: Blockchain🪙, In-depth programming🔧, AI🤖...
+- Plays         👾: Overwatch⏱️, Apex Legends🔫, NFT games...
 
 <img src="/assets/mochi-sleeping.gif" align="right" height="100px"/>
 
