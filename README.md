@@ -11,7 +11,7 @@ Computer Science💻🧪Student at [Asia Pacific University](https://new.apu.edu
 
 <!-- Quotes -->
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img align=left src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=black?&quote=Just%20start,%20you%20can%20never%20be%20ready"/>
+  <img align=left src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?&quote=Just%20start,%20you%20can%20never%20be%20ready"/>
 </a>
 
 <!-- Github Streaks -->
@@ -28,7 +28,7 @@ Computer Science💻🧪Student at [Asia Pacific University](https://new.apu.edu
 
 <!-- Most Used Languages -->
 <a href="https://github.com/Vincexodus/github-readme-stats">
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=transparent&layout=compact&border_radius=7.5" width=41%//>
+  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=transparent&layout=compact&border_radius=7.5"/>
 </a>
 
 
