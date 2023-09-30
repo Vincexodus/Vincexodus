@@ -1,4 +1,4 @@
-# Vincent's Bio <img src="/assets/mochi-sleeping.gif" height="40px"/><img src="/assets/mochi-greeting.gif" height="40px">
+# Vincent's Bio <img src="/assets/mochi-sleeping.gif" height="30px"/><img src="/assets/mochi-greeting.gif" height="30px">
 
 <!-- Intro -->
 Computer Science💻🧪Student at [Asia Pacific University](https://new.apu.edu.my/#).   Passionate💖about contributing to open source projects📂. Learning a little bit of everything🌝.
@@ -11,7 +11,7 @@ Computer Science💻🧪Student at [Asia Pacific University](https://new.apu.edu
 
 <!-- Quotes -->
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img align=left src="https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal&quote=Just%20start,%20you%20can%20never%20be%20ready"/>
+  <img align=left src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=Just%20start,%20you%20can%20never%20be%20ready"/>
 </a>
 
 <!-- Github Streaks -->
