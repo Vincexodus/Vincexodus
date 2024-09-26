@@ -1,9 +1,9 @@
 # Vincent's Bio <img src="/assets/mochi-sleeping.gif" height="30px"/><img src="/assets/mochi-greeting.gif" height="30px">
 
 <!-- Intro -->
-- 🧪 Final Year Computer Science student
-- 🌱 Currently learning Full Stack Development
-- 🗺️ Interested in Machine Learning, Blockchain, IoT, Hackathons, CTF, Competitive Programming
+- 🧪 CS Fresh Graduate a.k.a unemployed 
+- 🌱 Currently learning about filming & web3
+- 🗺️ Joins Hackathons related to ML, Blockchain, IoT
 - 🕹️ Occasionally make [games](https://vincexodus.itch.io/) for fun
 - 🌍 More about me [here](https://vincexodus.github.io/VincentChin/)
 
